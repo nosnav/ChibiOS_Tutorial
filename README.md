@@ -1,2 +1,1 @@
-# ChibiOS-RT_Tutorial
-ChibiOS 2.6.9
+# ChibiOS/RT 2.6.9
